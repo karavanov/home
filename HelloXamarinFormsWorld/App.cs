@@ -10,7 +10,7 @@ namespace HelloXamarinFormsWorld
                    {
                        Content = new Label
                                  {
-                                     Text = "Hello, Forms !",
+                                     Text = "Hello, Forms myWestern! how a u?",
                                      VerticalOptions = LayoutOptions.CenterAndExpand,
                                      HorizontalOptions = LayoutOptions.CenterAndExpand,
                                  },
